@@ -1,0 +1,5 @@
+# Ignore leads and sensitive data
+*לידים*
+*leads*
+*.csv
+*.xlsx
