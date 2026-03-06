@@ -1,0 +1,417 @@
+﻿הנחיות מותאמות ל-Gemini AI ===
+--- MESSAGE START ---
+תן לGEMINI AI הנחיות עליי. תבוא מנקודת הנחה שהוא לא יודע עליי כלום ואתה צריך ללמד אותו להיות הAI הכי טוב אפקטיבי ומותאם אליי שיש (זה GEMINI PRO היותר חזק), מבחנתי תעשה את זה ארוך ומורכב רק שידע כמה שיותר ותן לו גם CONTEXT עליי מה אנחנו עושים איפה זה עומד ומה מפה!
+--- MESSAGE END ---
+--- MESSAGE START ---
+Yehonatan wants me to create a comprehensive prompt/instructions for Gemini AI about him - who he is, what we're working on, where things stand, and what's next. He wants it long and detailed so Gemini knows as much as possible and can be the most effective AI for him.
+
+Let me pull from my memory and the project knowledge to create this. I should search project knowledge for additional context about the current state of things.
+```
+This block is not supported on your current device yet.
+```
+
+Let me search for more context about the current projects, VSL, quiz, and other specifics.
+```
+This block is not supported on your current device yet.
+```
+
+Let me also search for more specific context about the quiz and current project state.
+```
+This block is not supported on your current device yet.
+```
+
+Now I have enough context. Let me create a comprehensive Gemini AI prompt document. This should be in Hebrew since he asked in Hebrew, and it should be thorough and detailed.
+
+Actually, looking at this again - he wants me to create instructions FOR Gemini about him. This is essentially a system prompt / custom instructions document. Let me make this really comprehensive, covering who he is, what we're working on, the current project state, his working style, and everything Gemini needs to know.
+
+Since he asked in Hebrew, I'll write the instructions in Hebrew. But actually, the Gemini prompt should probably be written in a way that works well - maybe a mix approach where the instructions themselves are in English (since that's typically more effective for AI system prompts) but with Hebrew context where needed. Let me think...
+
+
+He's asking for instructions about him to give to Gemini, and he wants them long and complex. I need to decide on the language - he initiated in Hebrew so it should feel native to him, but AI system prompts tend to be more precise in English. Since these instructions are meant for Gemini to process, English would be more effective, but I should respect that he asked in Hebrew. Let me write this in Hebrew to match his request.
+
+Actually, wait - these are technical instructions that Jonathan will paste directly into Gemini, so English makes more strategic sense for maximum AI comprehension. I'll create a comprehensive document in English.
+```
+This block is not supported on your current device yet.
+```
+
+Now I have plenty of context. Let me create a comprehensive Gemini AI instructions document. I'll write it in English since it's AI instructions meant to be pasted into Gemini, and English instructions work best for AI systems.
+
+Let me build this as a thorough document covering everything.
+```
+This block is not supported on your current device yet.
+```
+
+Now let me create a comprehensive document for Gemini. I'll write it as a detailed system prompt / custom instructions that Jonathan can paste into Gemini Pro.עכשיו אני בונה לך מסמך מלא. אני הולך לכתוב את זה באנגלית כי הנחיות AI עובדות טוב יותר באנגלית — ולשמור על הכלל של "לא לערבב שפות" במסמך אחד.
+```
+This block is not supported on your current device yet.
+```
+
+Good, now let me copy it to outputs and present it.
+```
+This block is not supported on your current device yet.
+```
+
+Done. Let me present the file.
+```
+This block is not supported on your current device yet.
+```
+
+Done. The file is comprehensive and covers everything Gemini needs.כתבתי את זה באנגלית כי הנחיות מערכת עובדות חד יותר ככה עבור AI. 
+
+8 סקשנים: מי אתה (כGemini), מי ג'ונתן, הפרויקט של תומר בפירוט מלא (שאלון, סיקוונס, VSL, מה נבנה, מה הבא), מאגר הידע שלך בקופירייטינג, כללי התנהגות, סוגי משימות, סנאפשוט עדכני, ודינמיקת העבודה.
+
+שים לב — בסקשן האחרון ביקשתי ממנו לאשר שהוא קלט הכל ב-2-3 משפטים בלבד, בלי לחזור על הכל. ככה תדע מיד אם הוא תפס או לא.
+
+תעדכן אם חסר משהו ספציפי שאתה רוצה שידע.
+--- MESSAGE END ---
+--- MESSAGE START ---
+?
+--- MESSAGE END ---
+--- MESSAGE START ---
+Jonathan is showing me the Gemini Gems interface. He wants to know how to set this up. The image shows the Gem creation screen with Name, Description, and Instructions fields.
+
+He needs to know how to fill this in. The file I created is the instructions content - it goes in the "Instructions" field. But I should also give him the Name and Description.
+
+Let me be direct about what goes where.אוקיי, אני רואה — זה ממשק יצירת Gem בג'מיני.
+
+שלושה שדות:
+
+**Name:** `Copy Chief & Marketing Ops — Jonathan`
+
+**Description:** `Ruthless senior copy chief, outreach strategist, and marketing execution partner for Jonathan. Specializes in direct-response copywriting, funnel architecture, and Hebrew/English marketing assets. Currently building a full marketing funnel for Tomer Friedman, clinical dietitian. Not a writing assistant — a business partner.`
+
+**Instructions:** תדביק את כל תוכן הקובץ שיצרתי לך (gemini-instructions.md) — הכל נכנס לשם.
+
+דבר אחד — יש מגבלת תווים בGems. אם הוא חותך לך, תגיד לי ואקצר לגרסה שנכנסת.
+--- MESSAGE END ---
+--- MESSAGE START ---
+אני רוצה להמשיך בלבנות את האתר לחנות חיות והמשתלה אז רק תן לGEMINI את הCONTEXT שהוא צריך לקבל מהם
+--- MESSAGE END ---
+--- MESSAGE START ---
+Jonathan wants me to give Gemini context about two specific businesses he's building websites for: a pet store and a nursery (plant nursery/משתלה). He wants to continue building these sites and needs Gemini to have the right context.
+
+I need to search for past conversations about these projects to understand what's been built, what the businesses are, and where things stand.
+```
+This block is not supported on your current device yet.
+```
+
+Let me search for more context about the nursery and pet store website project.
+```
+This block is not supported on your current device yet.
+```
+
+Now I have enough context. The business is "החי והצומח" (HaChai VeHaTzomeach) - a pet store and nursery in Dimona, Israel. Let me compile the key context Gemini needs.הנה מה שתדביק לGemini כ-context על הפרויקט הזה. תוסיף את זה לאותו Gem או תעשה Gem חדש — מה שנוח לך:
+
+---
+
+**הדבק את זה:**
+
+```
+## PROJECT: "החי והצומח" — SHOWCASE WEBSITE
+
+### The Business
+"החי והצומח" (HaChai VeHaTzomeach) — pet store + nursery in Dimona, Israel.
+Tagline: "כל הטבע בהישג ידך" (All of nature within reach).
+Brand colors: green, brown, white — earthy, natural feel.
+Facebook page: facebook.com/hachaiVhazomeah
+The owner asked Jonathan (who works there) to build a showcase website.
+
+### What the Site IS and ISN'T
+- NOT an e-commerce store. No checkout, no prices, no cart.
+- It IS a showcase/catalog site — displays departments, categories, and product examples with images.
+- CTA everywhere = WhatsApp link (wa.me/97286556681) for inquiries.
+- Single Page Application, Hebrew, full RTL.
+
+### 7 Departments (Tabs/Sections)
+1. **כלבים וחתולים** (Dogs & Cats) — separate sub-sections for each. Wet food, dry food, toys, cages, accessories.
+2. **דגי נוי ואקווריומים** (Ornamental Fish & Aquariums) — fish for sale, aquariums, aquarium products, fish food.
+3. **בעלי כנף** (Birds) — canaries, parakeets, lovebirds, cockatiels, finches. Plus cages, food, accessories.
+4. **מכרסמים** (Rodents) — chinchillas, hamsters, rabbits. Plus cages, food, accessories.
+5. **עולם הזוחלים** (Reptiles) — NO live reptiles sold. Terrariums, reptile food, equipment only.
+6. **מחלקת דיג** (Fishing) — rods, fishing gear, bait, equipment.
+7. **משתלה וגינון** (Nursery & Garden) — this is the biggest section. Subdivided into:
+   - Soil bags, compost, humus, river stones, tuff (various sizes)
+   - Flowers
+   - Trees (ornamental AND fruit — separate)
+   - Vegetables & herbs (together)
+   - Planters/pots
+   - Irrigation equipment
+   - Gardening tools/equipment
+
+### Nursery Section — Special Design
+The nursery section should have a distinct visual style inspired by yarok-lavan.co.il — clean, green-white aesthetic, different from the rest of the site.
+
+### IKEA Logic for Product Layout
+Products within each department should follow "IKEA path" psychology: the most popular/sought-after items (e.g., herb plants in nursery) should be placed LAST in the browsing flow, so users walk past everything else first. This increases impulse discovery.
+
+### Filtering System
+Each department needs category-based filtering (by product type, not price). Example: in nursery → filter by trees/flowers/herbs/soil etc. Reference: zipet.co.il has the filtering style the owner liked.
+
+### Key Suppliers (for product reference, NOT for logos unless confirmed)
+- Royal Canin (royalcanin.com/il) — dog & cat food
+- Purina (purina.co.il) — dog & cat food  
+- Zipet (zipet.co.il) — pet food catalog reference
+- Yarok Lavan (yarok-lavan.co.il) — nursery plants reference
+- Deshanit (deshanit.co.il) — nursery/soil products
+- Medioni (medioni.co.il) — rodents, birds equipment
+- Dorgan (dorgan.co.il) — gardening equipment
+- Only AlphaDog from Isravet (2 large 22kg bags only)
+
+### Brand Carousel
+Three rotating sections: pet brands, nursery brands, aquatics brands. Auto-sliding + interactive.
+
+### Visual Requirements
+- Hero image: large dog photo at top (professional, welcoming — owner liked this style)
+- Department cards: real product photos, NOT emojis. Style reference: "Achim Nachum" store layout
+- Product cards: image + name + category + WhatsApp CTA. Click opens detail modal.
+- Logo: owner has a custom logo (tree with animals). Must appear in header.
+
+### Platform
+Building on Lovable (lovable.dev). Jonathan needs step-by-step Lovable prompts.
+Previous attempts had issues: emojis instead of images, broken carousels, missing logos, nursery section not styled differently.
+
+### Current Status
+- HTML prototype exists with all structure but needs real product images and visual polish
+- Lovable project started but needs rebuilding with proper prompts
+- Owner has approved the general structure and department breakdown
+- Product images need to come from supplier websites or Unsplash placeholders
+- No Google Drive images available — use web sources
+
+### What Gemini Should Help With
+- Writing precise Lovable prompts that actually produce the right output
+- Fixing specific UI issues (RTL, image rendering, carousel, filtering)
+- Product catalog population from supplier sites
+- Making the nursery section visually distinct
+- Any code fixes for the HTML/React components
+```
+
+---
+
+זה מכסה את הכל. תדביק, ותתחיל לעבוד איתו.
+--- MESSAGE END ---
+--- MESSAGE START ---
+צירפתי לך פה MARKDOWN של ירוק לבן בשביל האתר של רון.
+אני צריך להכניס תמונות לכל המוצרים באתר כרגע 168 מוצרים וגם את המידע שלהם. GEMINI טוען שבקושי יש פה תמונות מצורפת ומשכתי את זה מFIRECRAWL. אני רוצה שתסתכל על זה גם אתה ואם יש פה אז תסדר לי הכל ככה שאני יוכל לשים את זה בLOVEABLE ולסיים כבר עם האתר הזה
+--- MESSAGE END ---
+--- MESSAGE START ---
+Jonathan wants me to look at the Yarok Lavan markdown he scraped via Firecrawl and assess whether it actually contains usable product images and data for his 168 products on the pet store website. Gemini is saying there are barely any images. Let me analyze what's actually in this document.
+
+Looking at the markdown content from Yarok Lavan - this is their homepage, not their product catalog. Let me check what's actually here:
+
+1. The document contains their homepage content - about section, catalog categories, professional info articles
+2. There ARE image URLs - but they're mostly:
+   - Article thumbnails (blog posts about plant care)
+   - Category preview images (small thumbnails in the plant search section)
+   - UI elements like logos and icons
+   - A handful of actual product images in the "what's new" section
+
+The real product catalog with those 168 items is at yarok-lavan.co.il/plants/ and yarok-lavan.co.il/קטלוג/, so Gemini's assessment is correct - this homepage scrape doesn't have the product data Jonathan needs.
+
+I should give him a direct recommendation to scrape the actual catalog pages instead.ג'מיני צודק. זה לא מה שאתה חושב שזה.
+
+מה שיש פה זה **את הדף הבית של ירוק לבן** — לא את קטלוג המוצרים. התמונות שנמצאות פה הן בעיקר תמונות של מאמרים מקצועיים (גידול גרניום, שתילת צמחים, רקפת וכו') ו-4 מוצרים חדשים מהסליידר (פעמוני גשם, פוקסיה, נרקיס, גרניום צרפתי). כל השאר זה SVG של ממשק ולוגואים.
+
+**168 מוצרים עם תמונות ומידע נמצאים בנתיב אחר:** `yarok-lavan.co.il/plants/` — שזה הקטלוג עצמו. Firecrawl צריך לסרוק את הדף הזה, לא את הדף הראשי.
+
+בוא נבדוק מה באמת יש שם:
+```
+This block is not supported on your current device yet.
+```
+
+The URL was in the uploaded document content. Let me try fetching it differently.
+```
+This block is not supported on your current device yet.
+```
+
+Now I can see the actual catalog page. It DOES have product images. Each product has a 400x300 image. The page is structured by categories (צמחי גן, שיחים, תבלינים וירקות, צמחי פנים) with product cards containing image + name + link to details.
+
+But the fetch got truncated. The key insight is:
+
+1. The catalog page HAS images - each product card has a real photo URL like `https://yarok-lavan.co.il/wp-content/uploads/2025/06/...400x300.jpg`
+2. But Firecrawl only scraped the HOMEPAGE, not the catalog
+
+
+3. The catalog at `/קטלוג/` contains the actual product grid, and each product has its own detail page, but pagination or lazy-loading means a single scrape won't capture all 168 products
+
+So Jonathan needs to target the catalog page and category sub-pages directly to get complete product coverage, since these are supplier products from Yarok Lavan that the nursery uses.עכשיו אני רואה את התמונה המלאה. הנה המצב:
+
+**דף הקטלוג (`/קטלוג/`) כן מכיל תמונות מוצרים.** כל כרטיס מוצר יש לו URL של תמונה אמיתית בפורמט `yarok-lavan.co.il/wp-content/uploads/2025/.../שם-מוצר-400x300.jpg`. אבל Firecrawl שלך סרק את **דף הבית** — לא את הקטלוג.
+
+**הבעיה:** הקטלוג טוען מוצרים ב-lazy load / pagination, אז סריקה אחת לא תתפוס את כל ה-168. המוצרים מחולקים לקטגוריות עם URL-ים נפרדים:
+
+- `/plants?_sft_plant-categories=צמחי-גן`
+- `/plants?_sft_plant-categories=שיחים`
+- `/plants?_sft_plant-categories=תבלינים-וירקות`
+- `/plants?_sft_plant-categories=צמחי-פנים`
+
+**מה לעשות:**
+
+תגיד לGemini לעזור לך לכתוב סקריפט Python קצר (או להשתמש ב-Firecrawl עם crawl mode) שעובר על **כל אחת מ-4 הקטגוריות** ומושך מכל כרטיס מוצר: שם, URL תמונה, וקישור לדף הפרטים. מדף הפרטים אפשר למשוך גם את המידע המורחב (תיאור, תכונות).
+
+אלטרנטיבית — הדרך הכי מהירה — תריץ ב-Firecrawl סריקה על כל אחד מ-4 הURL-ים של הקטגוריות בנפרד, ותשלח לי את ה-output. אני אסדר לך את הכל לפורמט שנכנס ישר ל-Lovable.
+
+רוצה שאכתוב לך את הפרומפט המדויק ל-Firecrawl / Gemini?
+--- MESSAGE END ---
+--- MESSAGE START ---
+הצלחתי לעשות את זה בעצמי תקשיב טוב מה אני רוצה שתעשה. כל אחד תזין בצורה פשוטה (וכמובן תפעיל שיקול דעת איך לעשות) עם שם ותמונה של המוצר בנוסף אצרף לך טקסט. ניסיתי לתת לLOVEABLE אבל יש לו פיספוסים, אז תנחה אותו ושיעשה כמו שצריך או שתעשה את זה אתה, אתה גם טוב בזה
+--- MESSAGE END ---
+--- MESSAGE START ---
+הצלחתי לעשות את זה בעצמי תקשיב טוב מה אני רוצה שתעשה. כל אחד תזין בצורה פשוטה (וכמובן תפעיל שיקול דעת איך לעשות) עם שם ותמונה של המוצר בנוסף אצרף לך טקסט. ניסיתי לתת לLOVEABLE אבל יש לו פיספוסים, אז תנחה אותו ושיעשה כמו שצריך או שתעשה את זה אתה, אתה גם טוב בזה
+--- MESSAGE END ---
+--- MESSAGE START ---
+הצלחתי לעשות את זה בעצמי תקשיב טוב מה אני רוצה שתעשה. כל אחד תזין בצורה פשוטה (וכמובן תפעיל שיקול דעת איך לעשות) עם שם ותמונה של המוצר בנוסף אצרף לך טקסט. ניסיתי לתת לLOVEABLE אבל יש לו פיספוסים, אז תנחה אותו ושיעשה כמו שצריך או שתעשה את זה אתה, אתה גם טוב בזה
+--- MESSAGE END ---
+--- MESSAGE START ---
+Jonathan scraped the Yarok Lavan catalog himself using Thunderbit and got an Excel file with ~350+ plants. He wants me to help him populate the nursery section of his pet store website with this data - each product with name and image.
+
+He's saying Lovable had issues doing it, so he wants me to either guide Lovable or do it myself.
+
+Let me first look at the Excel file to understand the data structure, then figure out the best approach.
+
+The document shows the data clearly - plant names, URLs, image URLs, and some category/attribute data.
+
+He wants me to populate these into the website. Let me think about the best approach:
+
+1. The website is being built on Lovable
+
+
+2. He has ~350+ plants with names and image URLs that need to be displayed
+
+I've got the full dataset already, so I need to decide whether to create a JSON file that Lovable can import directly, provide instructions for Lovable to handle it, or build it myself - the simplest path would be structuring the plant data in a format that's easy to consume.
+
+Let me check the existing website structure first to understand how to best integrate this data.
+```
+This block is not supported on your current device yet.
+```
+
+Let me look at the Excel file and the existing website to understand the structure.
+```
+This block is not supported on your current device yet.
+```
+
+Let me check the transcript to understand the website structure and what was built before.
+```
+This block is not supported on your current device yet.
+```
+
+
+--- MESSAGE END ---
+--- MESSAGE START ---
+Jonathan scraped 350+ plants from Yarok Lavan and wants me to integrate them into the pet store website. Let me review the transcript to understand the current state of the website and what's needed.
+
+Let me look at the existing HTML file and understand what needs to be done.
+```
+This block is not supported on your current device yet.
+```
+
+Let me check the existing HTML file to understand the current website structure.
+```
+This block is not supported on your current device yet.
+```
+
+Let me check the existing HTML file to understand the website structure, then process the Excel data and build the nursery section.
+```
+This block is not supported on your current device yet.
+```
+
+Let me look at the transcript more to understand the full context and find the existing HTML file.
+```
+This block is not supported on your current device yet.
+```
+
+Let me search for the existing HTML file from past conversations.
+```
+This block is not supported on your current device yet.
+```
+
+
+--- MESSAGE END ---
+--- MESSAGE START ---
+הצלחתי לעשות את זה בעצמי תקשיב טוב מה אני רוצה שתעשה. כל אחד תזין בצורה פשוטה (וכמובן תפעיל שיקול דעת איך לעשות) עם שם ותמונה של המוצר בנוסף אצרף לך טקסט. ניסיתי לתת לLOVEABLE אבל יש לו פיספוסים, אז תנחה אותו ושיעשה כמו שצריך או שתעשה את זה אתה, אתה גם טוב בזה
+--- MESSAGE END ---
+--- MESSAGE START ---
+Jonathan uploaded a new file and wants me to work with it. Let me understand what he's saying:
+
+1. He managed to do something himself (likely the Yarok Lavan plant integration into Lovable)
+2. He's uploading a new Excel file: "קובץ_נתוני_לקוחות_ולידים_-_06_02_2026.xlsx" (Client and leads data file)
+3. He wants me to input each one simply with name and product image
+4. He'll also attach text
+5. He tried giving it to Lovable but it has issues
+6. He wants me to either guide Lovable or do it myself
+
+
+7. I'm noticing the filename mentions "clients and leads" but the instruction is about products with names and images, so there's some ambiguity about whether this is product data or customer/lead information.
+```
+This block is not supported on your current device yet.
+```
+
+This is NOT a product file. This is Tomer Friedman's client/leads database with 2,343 records. It contains:
+- Customer number, first name, last name, gender, phone, email, birth date, city, country, client type (frontal), creation date, sessions, bank, account number, total payment
+
+This is Tomer the dietitian's CRM data. Jonathan is asking me to "input each one simply with name and image of the product" - but this is client data, not products.
+
+Wait, let me re-read his message: "כל אחד תזין בצורה פשוטה (וכמובן תפעיל שיקול דעת איך לעשות) עם שם ותמונה של המוצר"
+
+
+He's saying to input each one simply with name and product image. But this is a clients database, not products. He also mentioned he'd attach text separately, and he said he tried giving this to Lovable but ran into issues - that was about the pet store website. I'm wondering if he accidentally uploaded Tomer's client database when he meant to send product data for the pet store instead.
+--- MESSAGE END ---
+--- MESSAGE START ---
+הצלחתי לעשות את זה בעצמי תקשיב טוב מה אני רוצה שתעשה. כל אחד תזין בצורה פשוטה (וכמובן תפעיל שיקול דעת איך לעשות) עם שם ותמונה של המוצר בנוסף אצרף לך טקסט. ניסיתי לתת לLOVEABLE אבל יש לו פיספוסים, אז תנחה אותו ושיעשה כמו שצריך או שתעשה את זה אתה, אתה גם טוב בזה
+--- MESSAGE END ---
+--- MESSAGE START ---
+Jonathan uploaded the Thunderbit Excel file with the Yarok Lavan plant data. He wants me to process it and create something usable for his pet store website's nursery section. Let me first read the actual data from this file.
+```
+This block is not supported on your current device yet.
+```
+
+Good, I can see the data. 536 rows (535 plants + header), 9 columns. The key columns are:
+- שם הצמח (plant name)
+- URL הצמח (product URL)
+- תמונת הצמח (image URL - 400x300)
+- קטגוריה ראשית (main category - looks empty in these samples)
+- Plus metadata columns that are mostly empty
+
+Let me check how many have categories and images, then build this properly.
+```
+This block is not supported on your current device yet.
+```
+
+So: 535 plants, ALL have images, but only 52 have categories (48 תבלינים וירקות, 4 שיחים). The other 483 plants have no category assigned. 
+
+Jonathan wants me to build a nursery section with name + image for each plant. Since categories are mostly empty, I need to decide on the best approach. Options:
+
+1. Build a simple searchable/filterable catalog with all 535 plants showing name + image
+2. Try to categorize them somehow
+
+Since categories are almost all empty, the simplest approach is a clean grid with search/filter. Let me build a standalone HTML file that shows the nursery catalog.
+ 
+Before I start building, I should check how the existing site is structured to see how this nursery section needs to fit in.535 צמחים, לכולם יש תמונה. אבל — רק 52 מתוכם יש קטגוריה (48 תבלינים וירקות, 4 שיחים). השאר ריקים.
+
+שתי אפשרויות:
+
+1. **קטלוג פשוט** — גריד עם שם + תמונה + חיפוש חופשי. מהיר, נקי, עובד.
+2. **לנסות לקטלג** — אבל 90% בלי קטגוריה אז זה מלאכותי.
+
+אני הולך על 1 — גריד נקי עם חיפוש. בונה עכשיו.
+```
+This block is not supported on your current device yet.
+```
+
+Now let me build the HTML nursery catalog. I'll embed the JSON directly in the HTML file. Clean grid, search functionality, RTL Hebrew layout.
+```
+This block is not supported on your current device yet.
+```
+
+Now let me build the nursery catalog HTML. I need to embed 535 plants with their images into a clean, searchable grid. Let me create a production-quality HTML file that Jonathan can either use directly or give to Lovable.
+
+The design should match the pet store aesthetic - green/brown nature theme, RTL Hebrew, clean cards with plant name + image.
+```
+This block is not supported on your current device yet.
+```
+
+Now I need to build a clean HTML file with all 535 plants. The JSON is ~133KB which is fine to embed directly. Let me create a production-quality nursery catalog page.
+```
+This block is not supported on your current device yet.
+```
+
+--- MESSAGE END ---
